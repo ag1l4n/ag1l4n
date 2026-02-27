@@ -1,19 +1,46 @@
-# Hi there, I'm Tamilhagilan Anbu Mani 👋
+# Hi there, I'm Tamilhagilan 👋
 
-I am a cybersecurity professional focused on securing systems, analyzing vulnerabilities, and uncovering digital evidence. 
+### Cybersecurity Professional | AI & Cloud Certified | UMPSA Honors Student
 
-## 🛠️ Skills & Tools
-* **Digital Forensics:** Autopsy, FTK Imager
+I am a highly motivated cybersecurity professional with a passion for incident handling, digital forensics, and cloud security. As a Malaysia Cybersecurity Scholarship recipient (NACSA) and an Honors student at UMPSA, I enjoy breaking down complex problems, leading projects, and building secure technological solutions.
+
+## 🚀 About Me
+* 🎓 **Education:** I’m currently pursuing a **Bachelor of Computer Science (Cyber Security) with Honours** at Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA), maintaining a 3.91 CGPA.
+* 🔭 **Currently Focused On:** Expanding my practical knowledge in **Incident Handling, Cloud Security,** and **Digital Forensics**.
+* 💼 **Leadership & Strategy:** I bring hands-on operational experience, having served as a Chief Operating Officer (COO) for a business plan initiative and as a Head of Registration for large-scale events.
+* 📫 **Let's Connect:** Reach out to me on [LinkedIn](https://www.linkedin.com/in/tamilhagilan/).
+
+---
+
+## 🛠️ Technical Skills
+
+### Cybersecurity & Forensics
+* **Core Domains:** Incident Handling, Cloud Security, Digital Forensics
+* **Tools & Systems:** Linux, Autopsy, FTK Imager
 * **Penetration Testing:** Wi-Fi Pentesting, Social Engineering, OWASP Guidelines
-* **Programming & Development:** Android Studio, Python
-* **Concepts:** Cryptography (Modular arithmetic, Ciphers), RFID Security
 
-## 📜 Certifications
-* • 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱: 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆, 𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲, 𝗮𝗻𝗱 𝗜𝗱𝗲𝗻𝘁𝗶𝘁𝘆 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 (𝗦𝗖-𝟵𝟬𝟬) 
-* • 𝐆𝐨𝐨𝐠𝐥𝐞: 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 
-* • 𝗖𝗶𝘀𝗰𝗼: 𝗖𝘆𝗯𝗲𝗿 𝗧𝗵𝗿𝗲𝗮𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁, 𝗘𝗻𝗱𝗽𝗼𝗶𝗻𝘁 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆, 𝐚𝐧𝐝 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗗𝗲𝗳𝗲𝗻𝘀𝗲
-* • 𝐇𝐮𝐚𝐰𝐞𝐢: 𝐇𝐮𝐚𝐰𝐞𝐢 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐈𝐂𝐓 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 𝐢𝐧 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 (𝐇𝐂𝐈𝐀-𝐀𝐈)
+### Programming & Development
+* **Languages:** Python, Java/Kotlin (Android Studio)
+* **Concepts:** Cryptography (Modular arithmetic, Ciphers), Applied Hardware Security (RFID/Arduino)
 
-## 📂 Featured Projects
-* [Botium Toys Security Audit](link-to-repo): A comprehensive risk assessment and compliance report.
-* [Forensic Image Analysis](link-to-repo): Uncovering hidden artifacts using FTK Imager.
+---
+
+## 📜 Honors & Certifications
+* **Scholarship:** Malaysia Cybersecurity Scholarship (awarded by NACSA)
+* **Microsoft:** Security, Compliance, and Identity Management (SC-900)
+* **Google:** Foundation of Cybersecurity, Play It Safe: Managing Security Risks
+* **HCIA-AI:** Huawei Certified ICT Associate - Artificial Intelligence
+* **SC-900:** Microsoft Security, Compliance, and Identity Fundamentals
+
+---
+
+## 📂 Featured Projects & Write-Ups
+
+* 🧸 **[Botium Toys: Security Audit & Risk Assessment](Link-to-repo)** Conducted a comprehensive risk assessment, identifying vulnerabilities in access controls, cryptography, and BCDR plans, while mapping controls to industry compliance standards.
+  
+* ☁️ **[Cloud Security & Incident Handling Practices](Link-to-repo)** *(Placeholder for future project)* Practical write-ups and scripts focused on implementing security fundamentals and responding to modern threats.
+
+* 🔍 **[Digital Forensics Investigations](Link-to-repo)** A collection of practical methodologies demonstrating data extraction and evidence analysis utilizing Autopsy and FTK Imager.
+
+---
+
