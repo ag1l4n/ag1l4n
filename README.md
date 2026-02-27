@@ -36,7 +36,7 @@ I am a highly motivated cybersecurity professional with a passion for incident h
 
 ## 📂 Featured Projects & Write-Ups
 
-* 🧸 **[Botium Toys: Security Audit & Risk Assessment](https://github.com/ag1l4n/Security-Audits-and-Governance/blob/main/Controls%20and%20Compliance%20Checklist.md)** Conducted a comprehensive risk assessment, identifying vulnerabilities in access controls, cryptography, and BCDR plans, while mapping controls to industry compliance standards.
+* 🧸 **[Botium Toys: Security Audit & Risk Assessment](https://github.com/ag1l4n/Security-Audits-and-Governance/blob/main/Controls%20and%20Compliance%20Checklist.md)** Conducted a comprehensive risk assessment, identifying vulnerabilities in access controls, cryptography, and BCDR plans, while mapping controls to industry compliance standards. _(Part of Play It Safe: Managing Security Risks course by Google_
 
 ---
 
